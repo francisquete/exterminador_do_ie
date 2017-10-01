@@ -1,0 +1,19 @@
+{
+  "name": "jogo",
+  "version": "1.0.0",
+  "description": "projeto feito no curso de ES6 do Estevam Maito (youtube)",
+  "babel": {
+    "presets": ["env"]
+  },
+  "main": "gameBabel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel gameBabel.js --watch --out-file game.js"
+  },
+  "author": "thiago @ estevam maito",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0"
+  }
+}

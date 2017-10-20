@@ -1,6 +1,7 @@
 # O **exterminador** do Internet Explorer :bomb:
 
-Exterminando o Internet Explorer :bowtie: :innocent: :collision:
-###### Just for pratice, don't be mad with me IE guys :relieved: :kissing_smiling_eyes:
+###### Use as setas para mover a bomba e matar o Internet Explorer :smile: [Acesse aqui](https://francisquete.github.io/exterminador_do_ie/)
 
-[Acesse aqui](https://francisquete.github.io/exterminador_do_ie/)
+![jogo](https://github.com/francisquete/exterminador_do_ie/blob/master/images/exie.jpeg)
+
+
